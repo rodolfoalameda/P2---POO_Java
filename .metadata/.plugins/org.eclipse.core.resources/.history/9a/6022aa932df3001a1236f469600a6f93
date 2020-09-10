@@ -1,0 +1,31 @@
+package Teste;
+
+public class ArrayTest {
+
+	public static void main(String[] args) {
+		
+		String[] array1 = new String[10];
+		String[] array2 = new String[10];
+		String[] concat = new String [10];
+
+		ArrayTest example = new ArrayTest();
+
+		array1[0] = "meu ovo";
+		
+		array1[0] = "agua";
+		array1[1] = "terra";
+		array1[2] = "sol";
+		array1[3] = "lua";
+		array1[4] = "bola";
+		array1[5] = "chuva";
+
+		array2[0] = "agua";
+		array2[1] = "marte";
+		array2[2] = "sol";
+		array2[3] = "chuva";
+		array2[4] = "terremoto";
+		array2[5] = "CHUVA";
+		array2[6] = "bola";
+
+	}
+}

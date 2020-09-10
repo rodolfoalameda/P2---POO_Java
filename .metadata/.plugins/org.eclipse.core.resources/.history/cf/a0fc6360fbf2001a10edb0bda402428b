@@ -1,0 +1,11 @@
+package Ex6;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class MaiorMenor {
+	
+	List<Integer> example = new ArrayList<Integer>();	
+}
+

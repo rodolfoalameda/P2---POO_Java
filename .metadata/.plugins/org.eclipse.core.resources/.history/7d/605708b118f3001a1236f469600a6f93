@@ -1,0 +1,19 @@
+package Teste;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Rodrigo {
+
+	public static void main(String[] args) {
+		
+		List<Integer> example = new ArrayList<Integer>();
+		
+		for (int i = 0; i < example.size(); i++) {
+			example.add(i);
+		}
+		
+	}
+	
+	
+}

@@ -1,0 +1,20 @@
+package Teste;
+
+public class Rodrigo {
+
+	public int funcaoSegredo(int m, int n) {
+		int resultado = 0;
+		if(n == m ) {
+			resultado = n;
+		}else if(n > m) {
+			resultado = funcaoSegredo((n - m), m);
+		} else if (m > n) {
+			resultado = funcaoSegredo(n, (m - n));
+		}
+		return resultado;
+	}
+
+	public static void main(String[] args) {
+
+	}
+}

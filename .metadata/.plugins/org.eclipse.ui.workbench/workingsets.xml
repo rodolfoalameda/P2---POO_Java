@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1583343970884_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1583343971014_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1597104298508_3" label="Programação 2" name="Programação 2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+<item elementID="=ExercíciosP2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=QuestõesUri" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SimuladoIIP2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ProvaII" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Iniciante" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ProvaI" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Exceções" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=TestesUnitarios" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=RevisãoPI" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SimuladoP2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Udemy" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1597104650823_11" label="Programação 3" name="Programação 3">
+<item elementID="=Ex1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Ex2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1598464507549_8" label="Arquitetura" name="Arquitetura">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/WsExemplo" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1598585384389_10" label="Testes" name="Testes">
+<item elementID="=Testes" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1583343976615_2" label="Window Working Set" name="Aggregate for window 1583343976615"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1597104332932_5" label="Multiple Working Sets" name="Aggregate:Java Main Sources:Java Test Sources:Programação 2:">
+<workingSet IMemento.internal.id="Java Main Sources"/>
+<workingSet IMemento.internal.id="Java Test Sources"/>
+<workingSet IMemento.internal.id="Programação 2"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1597104576941_9" label="Multiple Working Sets" name="Aggregate:Java Main Sources:Programação 2:">
+<workingSet IMemento.internal.id="Java Main Sources"/>
+<workingSet IMemento.internal.id="Programação 2"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1597104661343_12" label="Multiple Working Sets" name="Aggregate:Programação 2:Programação 3:">
+<workingSet IMemento.internal.id="Programação 2"/>
+<workingSet IMemento.internal.id="Programação 3"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1598464688715_11" label="Multiple Working Sets" name="Aggregate:Arquitetura:Programação 2:Programação 3:">
+<workingSet IMemento.internal.id="Arquitetura"/>
+<workingSet IMemento.internal.id="Programação 2"/>
+<workingSet IMemento.internal.id="Programação 3"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1598588305137_14" label="Multiple Working Sets" name="Aggregate:Arquitetura:Programação 2:Programação 3:Testes:">
+<workingSet IMemento.internal.id="Arquitetura"/>
+<workingSet IMemento.internal.id="Programação 2"/>
+<workingSet IMemento.internal.id="Programação 3"/>
+<workingSet IMemento.internal.id="Testes"/>
+</workingSet>
+<mruList name="Programação 2"/>
+<mruList name="Programação 3"/>
+<mruList name="Testes"/>
+<mruList name="Java Main Sources"/>
+</workingSetManager>

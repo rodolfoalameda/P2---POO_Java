@@ -1,0 +1,24 @@
+package Teste;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Rodrigo {
+
+	public static void main(String[] args) {
+		
+	int contador;
+	
+	for(contador = 1; contador<5; contador++ ) {
+		if(contador > 3) {
+			System.out.println("Exemplo 2");
+		}
+	}
+		
+	
+	
+	
+	
+	
+	}
+}

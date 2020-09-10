@@ -1,0 +1,26 @@
+package Teste;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Rodrigo {
+
+	public static void main(String[] args) {
+		
+		List<Integer> example = new ArrayList<Integer>();
+		List<Integer> example2 = new ArrayList<Integer>();
+		
+		for (int i = 0; i < 10; i++) {
+			example.add(i);
+		}
+		System.out.println(example);
+		
+		int n = 10;
+		while(n < 10) {
+			example2.add(n);
+		}
+		System.out.println(example2);
+		
+	}
+	
+}

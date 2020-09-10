@@ -1,0 +1,16 @@
+package Ex6;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.sun.tools.javac.code.Type.ForAll;
+
+
+public class MaiorMenor {
+
+	List<Integer> exemplo = new ArrayList<Integer>();
+	for(int i = 0; i <=5; i++){
+		exemplo.add(i);
+	}
+	
+}

@@ -1,0 +1,37 @@
+package Teste;
+
+import java.util.ArrayList;
+
+public class ArrayTest {
+
+	public static void main(String[] args) {
+		
+		ArrayList<String> array1 = new ArrayList<String>();
+		ArrayList<String> array2 = new ArrayList<String>();
+		ArrayList<String> concat = new ArrayList<String>();
+		
+		array1.add("agua");
+		array1.add("terra");
+		array1.add("sol");
+		array1.add("lua");
+		array1.add("bola");
+		array1.add("chuva");
+		
+		array2.add("agua");
+		array2.add("marte");
+		array2.add("sol");
+		array2.add("chuva");
+		array2.add("terremoto");
+		array2.add("CHUVA");
+		array2.add("bola");
+		
+		for(int i = 0; i < array1.size(); i++) {
+			for(int j = 0; j < array2.size(); j++) {
+				if (array1.get(i).toLowerCase().equals(array2.get(i))) {
+					concat.add(array1.get(i));
+				}
+			}	
+		}
+		System.out.println(concat);
+	}
+}

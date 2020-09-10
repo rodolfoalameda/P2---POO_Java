@@ -1,0 +1,19 @@
+package Teste;
+
+import java.util.Vector;
+
+public class Rodrigo {
+
+	public static void main(String[] args) {
+		
+		Vector<Integer> example = new Vector<Integer>();
+		
+		for(int i = 0; i<10; i++) {
+			example.add(i);
+			example.add("a");
+		}
+		System.out.println(example);
+	} 
+	
+	
+}

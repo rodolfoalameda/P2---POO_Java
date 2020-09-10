@@ -1,0 +1,26 @@
+package Teste;
+
+public class TaxiValue {
+
+//	elapsedTime must be in minutes.
+	public double taxiValue(int elapsedTime) {
+		double value = 0;
+		if (elapsedTime <= 5) {
+			value = elapsedTime * 3;
+		} else if (elapsedTime > 5 && elapsedTime <= 10) {
+			value = elapsedTime * 2;
+		} else {
+			value = elapsedTime * 1;
+		}
+		return value;
+	}
+
+	public static void main(String[] args) {
+		TaxiValue taxiValue = new TaxiValue();
+		System.out.println("Your bill: " + "R$:"+ taxiValue.taxiValue(12));
+		System.out.println("Your bill: " + "R$:"+ taxiValue.taxiValue(4));
+		System.out.println("Your bill: " + "R$:"+ taxiValue.taxiValue(3));
+	
+	}
+
+}
